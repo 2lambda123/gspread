@@ -1,7 +1,7 @@
 bandit==1.7.6
 black==23.3.0
 codespell==2.2.6
-flake8==6.0.0
+flake8==6.1.0
 isort==5.13.2
 mypy==1.6.1
 mypy-extensions==1.0.0
